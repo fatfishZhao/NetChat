@@ -1,0 +1,1747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ee22705-bba7-456e-bb5e-26a4cf9d0380" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="ServerUI.java" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/mynet/ServerUI.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="174">
+                    <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+                    <folding>
+                      <element signature="imports" expanded="true" />
+                      <element signature="e#482#483#0" expanded="true" />
+                      <element signature="e#517#518#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GreetingClient.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mynet/GreetingClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mynet/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-137">
+              <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Console.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fatfish/Console.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#400#554#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UITest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mynet/UITest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="61" column="10" lean-forward="true" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientUI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mynet/ClientUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GreetingServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mynet/GreetingServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>set</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/mynet/GreetingSever.java" />
+        <option value="$PROJECT_DIR$/src/mynet/GreetingClient.java" />
+        <option value="$PROJECT_DIR$/src/mynet/GreetingServer.java" />
+        <option value="$PROJECT_DIR$/src/mynet/CheatUI.java" />
+        <option value="$PROJECT_DIR$/src/mynet/UITest.java" />
+        <option value="$PROJECT_DIR$/src/mynet/ChatUI.java" />
+        <option value="$PROJECT_DIR$/src/fatfish/swing/Console.java" />
+        <option value="$PROJECT_DIR$/src/fatfish/Console.java" />
+        <option value="$PROJECT_DIR$/src/mynet/Test.java" />
+        <option value="$PROJECT_DIR$/src/mynet/ClientUI.java" />
+        <option value="$PROJECT_DIR$/src/mynet/ServerUI.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NetChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NetChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NetChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NetChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mynet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NetChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NetChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RunManager" selected="Application.ServerUI">
+    <configuration default="false" name="GreetingServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="mynet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="mynet.GreetingServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="NetChat" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="mynet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="mynet.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="NetChat" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="UITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="mynet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="mynet.UITest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="NetChat" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ClientUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="mynet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="mynet.ClientUI" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="NetChat" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ServerUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="mynet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="mynet.ServerUI" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="NetChat" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="NetChat" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.GreetingServer" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="2" class="java.lang.String" itemvalue="Application.UITest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ClientUI" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ServerUI" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.ServerUI" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ClientUI" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="3" class="java.lang.String" itemvalue="Application.GreetingServer" />
+        <item index="4" class="java.lang.String" itemvalue="Application.UITest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ee22705-bba7-456e-bb5e-26a4cf9d0380" name="Default" comment="" />
+      <created>1484289405386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484289405386</updated>
+      <workItem from="1484289414541" duration="18905000" />
+      <workItem from="1484405474159" duration="37000" />
+      <workItem from="1484406740637" duration="2495000" />
+      <workItem from="1484444007001" duration="19430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40867000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30674848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18154311" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.398773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/mynet/GreetingClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="54" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="26" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fatfish/Console.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#400#554#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/UITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="77" column="17" lean-forward="false" selection-start-line="75" selection-start-column="16" selection-end-line="77" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/ClientUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="52" column="69" lean-forward="false" selection-start-line="52" selection-start-column="69" selection-end-line="52" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/ServerUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/GreetingServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="48" column="43" lean-forward="false" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17708">
+          <caret line="932" column="16" lean-forward="false" selection-start-line="932" selection-start-column="16" selection-end-line="932" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#153768#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#14528#14529#0" expanded="false" />
+            <element signature="e#14552#14553#0" expanded="false" />
+            <element signature="e#30704#30705#0" expanded="false" />
+            <element signature="e#30736#30737#0" expanded="false" />
+            <element signature="e#31427#31428#0" expanded="false" />
+            <element signature="e#31471#31472#0" expanded="false" />
+            <element signature="e#31867#31868#0" expanded="false" />
+            <element signature="e#31906#31907#0" expanded="false" />
+            <element signature="e#32297#32298#0" expanded="false" />
+            <element signature="e#32333#32334#0" expanded="false" />
+            <element signature="e#35447#35448#0" expanded="false" />
+            <element signature="e#35482#35483#0" expanded="false" />
+            <element signature="e#40355#40356#0" expanded="false" />
+            <element signature="e#40382#40383#0" expanded="false" />
+            <element signature="e#46097#46098#0" expanded="false" />
+            <element signature="e#46135#46136#0" expanded="false" />
+            <element signature="e#48100#48101#0" expanded="false" />
+            <element signature="e#48137#48138#0" expanded="false" />
+            <element signature="e#48890#48891#0" expanded="false" />
+            <element signature="e#48940#48941#0" expanded="false" />
+            <element signature="e#49670#49671#0" expanded="false" />
+            <element signature="e#49706#49707#0" expanded="false" />
+            <element signature="e#52242#52243#0" expanded="false" />
+            <element signature="e#52288#52289#0" expanded="false" />
+            <element signature="e#52331#52332#0" expanded="false" />
+            <element signature="e#52368#52369#0" expanded="false" />
+            <element signature="e#52528#52529#0" expanded="false" />
+            <element signature="e#52581#52582#0" expanded="false" />
+            <element signature="e#53674#53675#0" expanded="false" />
+            <element signature="e#53717#53718#0" expanded="false" />
+            <element signature="e#54077#54078#0" expanded="false" />
+            <element signature="e#54112#54113#0" expanded="false" />
+            <element signature="e#56720#56721#0" expanded="false" />
+            <element signature="e#56781#56782#0" expanded="false" />
+            <element signature="e#60792#60793#0" expanded="false" />
+            <element signature="e#60833#60834#0" expanded="false" />
+            <element signature="e#66718#66719#0" expanded="false" />
+            <element signature="e#66775#66776#0" expanded="false" />
+            <element signature="e#82552#82553#0" expanded="false" />
+            <element signature="e#82627#82628#0" expanded="false" />
+            <element signature="e#82906#82907#0" expanded="false" />
+            <element signature="e#82940#82941#0" expanded="false" />
+            <element signature="e#88982#88983#0" expanded="false" />
+            <element signature="e#89009#89010#0" expanded="false" />
+            <element signature="e#89305#89306#0" expanded="false" />
+            <element signature="e#89332#89333#0" expanded="false" />
+            <element signature="e#92137#92138#0" expanded="false" />
+            <element signature="e#92180#92181#0" expanded="false" />
+            <element signature="e#95855#95856#0" expanded="false" />
+            <element signature="e#95911#95912#0" expanded="false" />
+            <element signature="e#96383#96384#0" expanded="false" />
+            <element signature="e#96422#96423#0" expanded="false" />
+            <element signature="e#100602#100603#0" expanded="false" />
+            <element signature="e#100629#100630#0" expanded="false" />
+            <element signature="e#101365#101366#0" expanded="false" />
+            <element signature="e#101395#101396#0" expanded="false" />
+            <element signature="e#101424#101425#0" expanded="false" />
+            <element signature="e#101456#101457#0" expanded="false" />
+            <element signature="e#101984#101985#0" expanded="false" />
+            <element signature="e#102053#102054#0" expanded="false" />
+            <element signature="e#103901#103902#0" expanded="false" />
+            <element signature="e#103959#103960#0" expanded="false" />
+            <element signature="e#114360#114361#0" expanded="false" />
+            <element signature="e#114412#114413#0" expanded="false" />
+            <element signature="e#122316#122317#0" expanded="false" />
+            <element signature="e#122370#122371#0" expanded="false" />
+            <element signature="e#123900#123901#0" expanded="false" />
+            <element signature="e#123948#123949#0" expanded="false" />
+            <element signature="e#123993#123994#0" expanded="false" />
+            <element signature="e#124038#124039#0" expanded="false" />
+            <element signature="e#129889#129890#0" expanded="false" />
+            <element signature="e#129943#129944#0" expanded="false" />
+            <element signature="e#138739#138740#0" expanded="false" />
+            <element signature="e#138783#138784#0" expanded="false" />
+            <element signature="e#147444#147445#0" expanded="false" />
+            <element signature="e#147471#147472#0" expanded="false" />
+            <element signature="e#148152#148153#0" expanded="false" />
+            <element signature="e#148190#148191#0" expanded="false" />
+            <element signature="e#150517#150518#0" expanded="false" />
+            <element signature="e#150570#150571#0" expanded="false" />
+            <element signature="e#150637#150638#0" expanded="false" />
+            <element signature="e#150695#150696#0" expanded="false" />
+            <element signature="e#150746#150747#0" expanded="false" />
+            <element signature="e#150802#150803#0" expanded="false" />
+            <element signature="e#150865#150866#0" expanded="false" />
+            <element signature="e#150919#150920#0" expanded="false" />
+            <element signature="e#151361#151362#0" expanded="false" />
+            <element signature="e#151414#151415#0" expanded="false" />
+            <element signature="e#152834#152835#0" expanded="false" />
+            <element signature="e#152897#152898#0" expanded="false" />
+            <element signature="e#152956#152957#0" expanded="false" />
+            <element signature="e#153013#153014#0" expanded="false" />
+            <element signature="e#153070#153071#0" expanded="false" />
+            <element signature="e#153127#153128#0" expanded="false" />
+            <element signature="e#153208#153209#0" expanded="false" />
+            <element signature="e#153277#153278#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/GreetingClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="26" column="54" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="26" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/UITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="77" column="17" lean-forward="false" selection-start-line="75" selection-start-column="16" selection-end-line="77" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/ClientUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/ServerUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/GreetingServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="48" column="43" lean-forward="true" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17708">
+          <caret line="932" column="16" lean-forward="false" selection-start-line="932" selection-start-column="16" selection-end-line="932" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#153768#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#14528#14529#0" expanded="false" />
+            <element signature="e#14552#14553#0" expanded="false" />
+            <element signature="e#30704#30705#0" expanded="false" />
+            <element signature="e#30736#30737#0" expanded="false" />
+            <element signature="e#31427#31428#0" expanded="false" />
+            <element signature="e#31471#31472#0" expanded="false" />
+            <element signature="e#31867#31868#0" expanded="false" />
+            <element signature="e#31906#31907#0" expanded="false" />
+            <element signature="e#32297#32298#0" expanded="false" />
+            <element signature="e#32333#32334#0" expanded="false" />
+            <element signature="e#35447#35448#0" expanded="false" />
+            <element signature="e#35482#35483#0" expanded="false" />
+            <element signature="e#40355#40356#0" expanded="false" />
+            <element signature="e#40382#40383#0" expanded="false" />
+            <element signature="e#46097#46098#0" expanded="false" />
+            <element signature="e#46135#46136#0" expanded="false" />
+            <element signature="e#48100#48101#0" expanded="false" />
+            <element signature="e#48137#48138#0" expanded="false" />
+            <element signature="e#48890#48891#0" expanded="false" />
+            <element signature="e#48940#48941#0" expanded="false" />
+            <element signature="e#49670#49671#0" expanded="false" />
+            <element signature="e#49706#49707#0" expanded="false" />
+            <element signature="e#52242#52243#0" expanded="false" />
+            <element signature="e#52288#52289#0" expanded="false" />
+            <element signature="e#52331#52332#0" expanded="false" />
+            <element signature="e#52368#52369#0" expanded="false" />
+            <element signature="e#52528#52529#0" expanded="false" />
+            <element signature="e#52581#52582#0" expanded="false" />
+            <element signature="e#53674#53675#0" expanded="false" />
+            <element signature="e#53717#53718#0" expanded="false" />
+            <element signature="e#54077#54078#0" expanded="false" />
+            <element signature="e#54112#54113#0" expanded="false" />
+            <element signature="e#56720#56721#0" expanded="false" />
+            <element signature="e#56781#56782#0" expanded="false" />
+            <element signature="e#60792#60793#0" expanded="false" />
+            <element signature="e#60833#60834#0" expanded="false" />
+            <element signature="e#66718#66719#0" expanded="false" />
+            <element signature="e#66775#66776#0" expanded="false" />
+            <element signature="e#82552#82553#0" expanded="false" />
+            <element signature="e#82627#82628#0" expanded="false" />
+            <element signature="e#82906#82907#0" expanded="false" />
+            <element signature="e#82940#82941#0" expanded="false" />
+            <element signature="e#88982#88983#0" expanded="false" />
+            <element signature="e#89009#89010#0" expanded="false" />
+            <element signature="e#89305#89306#0" expanded="false" />
+            <element signature="e#89332#89333#0" expanded="false" />
+            <element signature="e#92137#92138#0" expanded="false" />
+            <element signature="e#92180#92181#0" expanded="false" />
+            <element signature="e#95855#95856#0" expanded="false" />
+            <element signature="e#95911#95912#0" expanded="false" />
+            <element signature="e#96383#96384#0" expanded="false" />
+            <element signature="e#96422#96423#0" expanded="false" />
+            <element signature="e#100602#100603#0" expanded="false" />
+            <element signature="e#100629#100630#0" expanded="false" />
+            <element signature="e#101365#101366#0" expanded="false" />
+            <element signature="e#101395#101396#0" expanded="false" />
+            <element signature="e#101424#101425#0" expanded="false" />
+            <element signature="e#101456#101457#0" expanded="false" />
+            <element signature="e#101984#101985#0" expanded="false" />
+            <element signature="e#102053#102054#0" expanded="false" />
+            <element signature="e#103901#103902#0" expanded="false" />
+            <element signature="e#103959#103960#0" expanded="false" />
+            <element signature="e#114360#114361#0" expanded="false" />
+            <element signature="e#114412#114413#0" expanded="false" />
+            <element signature="e#122316#122317#0" expanded="false" />
+            <element signature="e#122370#122371#0" expanded="false" />
+            <element signature="e#123900#123901#0" expanded="false" />
+            <element signature="e#123948#123949#0" expanded="false" />
+            <element signature="e#123993#123994#0" expanded="false" />
+            <element signature="e#124038#124039#0" expanded="false" />
+            <element signature="e#129889#129890#0" expanded="false" />
+            <element signature="e#129943#129944#0" expanded="false" />
+            <element signature="e#138739#138740#0" expanded="false" />
+            <element signature="e#138783#138784#0" expanded="false" />
+            <element signature="e#147444#147445#0" expanded="false" />
+            <element signature="e#147471#147472#0" expanded="false" />
+            <element signature="e#148152#148153#0" expanded="false" />
+            <element signature="e#148190#148191#0" expanded="false" />
+            <element signature="e#150517#150518#0" expanded="false" />
+            <element signature="e#150570#150571#0" expanded="false" />
+            <element signature="e#150637#150638#0" expanded="false" />
+            <element signature="e#150695#150696#0" expanded="false" />
+            <element signature="e#150746#150747#0" expanded="false" />
+            <element signature="e#150802#150803#0" expanded="false" />
+            <element signature="e#150865#150866#0" expanded="false" />
+            <element signature="e#150919#150920#0" expanded="false" />
+            <element signature="e#151361#151362#0" expanded="false" />
+            <element signature="e#151414#151415#0" expanded="false" />
+            <element signature="e#152834#152835#0" expanded="false" />
+            <element signature="e#152897#152898#0" expanded="false" />
+            <element signature="e#152956#152957#0" expanded="false" />
+            <element signature="e#153013#153014#0" expanded="false" />
+            <element signature="e#153070#153071#0" expanded="false" />
+            <element signature="e#153127#153128#0" expanded="false" />
+            <element signature="e#153208#153209#0" expanded="false" />
+            <element signature="e#153277#153278#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="122" column="30" lean-forward="false" selection-start-line="122" selection-start-column="30" selection-end-line="122" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#33478#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#15436#15437#0" expanded="false" />
+            <element signature="e#15480#15481#0" expanded="false" />
+            <element signature="e#17515#17516#0" expanded="false" />
+            <element signature="e#17553#17554#0" expanded="false" />
+            <element signature="e#17801#17802#0" expanded="false" />
+            <element signature="e#17825#17826#0" expanded="false" />
+            <element signature="e#18355#18356#0" expanded="false" />
+            <element signature="e#18404#18405#0" expanded="false" />
+            <element signature="e#18856#18857#0" expanded="false" />
+            <element signature="e#18902#18903#0" expanded="false" />
+            <element signature="e#22247#22248#0" expanded="false" />
+            <element signature="e#22278#22279#0" expanded="false" />
+            <element signature="e#23171#23172#0" expanded="false" />
+            <element signature="e#23212#23213#0" expanded="false" />
+            <element signature="e#23469#23470#0" expanded="false" />
+            <element signature="e#23522#23523#0" expanded="false" />
+            <element signature="e#24813#24814#0" expanded="false" />
+            <element signature="e#24866#24867#0" expanded="false" />
+            <element signature="e#25466#25467#0" expanded="false" />
+            <element signature="e#25523#25524#0" expanded="false" />
+            <element signature="e#25770#25771#0" expanded="false" />
+            <element signature="e#25821#25822#0" expanded="false" />
+            <element signature="e#26253#26254#0" expanded="false" />
+            <element signature="e#26306#26307#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/awt/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2546">
+          <caret line="134" column="13" lean-forward="false" selection-start-line="134" selection-start-column="13" selection-end-line="134" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#44805#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#13021#13022#0" expanded="false" />
+            <element signature="e#13049#13050#0" expanded="false" />
+            <element signature="e#16421#16422#0" expanded="false" />
+            <element signature="e#16449#16450#0" expanded="false" />
+            <element signature="e#18099#18100#0" expanded="false" />
+            <element signature="e#18140#18141#0" expanded="false" />
+            <element signature="e#18403#18404#0" expanded="false" />
+            <element signature="e#18433#18434#0" expanded="false" />
+            <element signature="e#19824#19825#0" expanded="false" />
+            <element signature="e#19856#19857#0" expanded="false" />
+            <element signature="e#27147#27148#0" expanded="false" />
+            <element signature="e#27228#27229#0" expanded="false" />
+            <element signature="e#33216#33217#0" expanded="false" />
+            <element signature="e#33250#33251#0" expanded="false" />
+            <element signature="e#37968#37969#0" expanded="false" />
+            <element signature="e#38014#38015#0" expanded="false" />
+            <element signature="e#44108#44109#0" expanded="false" />
+            <element signature="e#44159#44160#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/net/InetAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19399">
+          <caret line="1021" column="67" lean-forward="false" selection-start-line="1021" selection-start-column="63" selection-end-line="1021" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/GreetingClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="26" column="54" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="26" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/UITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="77" column="17" lean-forward="true" selection-start-line="75" selection-start-column="16" selection-end-line="77" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/ClientUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="52" column="69" lean-forward="false" selection-start-line="52" selection-start-column="69" selection-end-line="52" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/ServerUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/GreetingServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17708">
+          <caret line="932" column="16" lean-forward="false" selection-start-line="932" selection-start-column="16" selection-end-line="932" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#153768#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#14528#14529#0" expanded="false" />
+            <element signature="e#14552#14553#0" expanded="false" />
+            <element signature="e#30704#30705#0" expanded="false" />
+            <element signature="e#30736#30737#0" expanded="false" />
+            <element signature="e#31427#31428#0" expanded="false" />
+            <element signature="e#31471#31472#0" expanded="false" />
+            <element signature="e#31867#31868#0" expanded="false" />
+            <element signature="e#31906#31907#0" expanded="false" />
+            <element signature="e#32297#32298#0" expanded="false" />
+            <element signature="e#32333#32334#0" expanded="false" />
+            <element signature="e#35447#35448#0" expanded="false" />
+            <element signature="e#35482#35483#0" expanded="false" />
+            <element signature="e#40355#40356#0" expanded="false" />
+            <element signature="e#40382#40383#0" expanded="false" />
+            <element signature="e#46097#46098#0" expanded="false" />
+            <element signature="e#46135#46136#0" expanded="false" />
+            <element signature="e#48100#48101#0" expanded="false" />
+            <element signature="e#48137#48138#0" expanded="false" />
+            <element signature="e#48890#48891#0" expanded="false" />
+            <element signature="e#48940#48941#0" expanded="false" />
+            <element signature="e#49670#49671#0" expanded="false" />
+            <element signature="e#49706#49707#0" expanded="false" />
+            <element signature="e#52242#52243#0" expanded="false" />
+            <element signature="e#52288#52289#0" expanded="false" />
+            <element signature="e#52331#52332#0" expanded="false" />
+            <element signature="e#52368#52369#0" expanded="false" />
+            <element signature="e#52528#52529#0" expanded="false" />
+            <element signature="e#52581#52582#0" expanded="false" />
+            <element signature="e#53674#53675#0" expanded="false" />
+            <element signature="e#53717#53718#0" expanded="false" />
+            <element signature="e#54077#54078#0" expanded="false" />
+            <element signature="e#54112#54113#0" expanded="false" />
+            <element signature="e#56720#56721#0" expanded="false" />
+            <element signature="e#56781#56782#0" expanded="false" />
+            <element signature="e#60792#60793#0" expanded="false" />
+            <element signature="e#60833#60834#0" expanded="false" />
+            <element signature="e#66718#66719#0" expanded="false" />
+            <element signature="e#66775#66776#0" expanded="false" />
+            <element signature="e#82552#82553#0" expanded="false" />
+            <element signature="e#82627#82628#0" expanded="false" />
+            <element signature="e#82906#82907#0" expanded="false" />
+            <element signature="e#82940#82941#0" expanded="false" />
+            <element signature="e#88982#88983#0" expanded="false" />
+            <element signature="e#89009#89010#0" expanded="false" />
+            <element signature="e#89305#89306#0" expanded="false" />
+            <element signature="e#89332#89333#0" expanded="false" />
+            <element signature="e#92137#92138#0" expanded="false" />
+            <element signature="e#92180#92181#0" expanded="false" />
+            <element signature="e#95855#95856#0" expanded="false" />
+            <element signature="e#95911#95912#0" expanded="false" />
+            <element signature="e#96383#96384#0" expanded="false" />
+            <element signature="e#96422#96423#0" expanded="false" />
+            <element signature="e#100602#100603#0" expanded="false" />
+            <element signature="e#100629#100630#0" expanded="false" />
+            <element signature="e#101365#101366#0" expanded="false" />
+            <element signature="e#101395#101396#0" expanded="false" />
+            <element signature="e#101424#101425#0" expanded="false" />
+            <element signature="e#101456#101457#0" expanded="false" />
+            <element signature="e#101984#101985#0" expanded="false" />
+            <element signature="e#102053#102054#0" expanded="false" />
+            <element signature="e#103901#103902#0" expanded="false" />
+            <element signature="e#103959#103960#0" expanded="false" />
+            <element signature="e#114360#114361#0" expanded="false" />
+            <element signature="e#114412#114413#0" expanded="false" />
+            <element signature="e#122316#122317#0" expanded="false" />
+            <element signature="e#122370#122371#0" expanded="false" />
+            <element signature="e#123900#123901#0" expanded="false" />
+            <element signature="e#123948#123949#0" expanded="false" />
+            <element signature="e#123993#123994#0" expanded="false" />
+            <element signature="e#124038#124039#0" expanded="false" />
+            <element signature="e#129889#129890#0" expanded="false" />
+            <element signature="e#129943#129944#0" expanded="false" />
+            <element signature="e#138739#138740#0" expanded="false" />
+            <element signature="e#138783#138784#0" expanded="false" />
+            <element signature="e#147444#147445#0" expanded="false" />
+            <element signature="e#147471#147472#0" expanded="false" />
+            <element signature="e#148152#148153#0" expanded="false" />
+            <element signature="e#148190#148191#0" expanded="false" />
+            <element signature="e#150517#150518#0" expanded="false" />
+            <element signature="e#150570#150571#0" expanded="false" />
+            <element signature="e#150637#150638#0" expanded="false" />
+            <element signature="e#150695#150696#0" expanded="false" />
+            <element signature="e#150746#150747#0" expanded="false" />
+            <element signature="e#150802#150803#0" expanded="false" />
+            <element signature="e#150865#150866#0" expanded="false" />
+            <element signature="e#150919#150920#0" expanded="false" />
+            <element signature="e#151361#151362#0" expanded="false" />
+            <element signature="e#151414#151415#0" expanded="false" />
+            <element signature="e#152834#152835#0" expanded="false" />
+            <element signature="e#152897#152898#0" expanded="false" />
+            <element signature="e#152956#152957#0" expanded="false" />
+            <element signature="e#153013#153014#0" expanded="false" />
+            <element signature="e#153070#153071#0" expanded="false" />
+            <element signature="e#153127#153128#0" expanded="false" />
+            <element signature="e#153208#153209#0" expanded="false" />
+            <element signature="e#153277#153278#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="122" column="30" lean-forward="false" selection-start-line="122" selection-start-column="30" selection-end-line="122" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#33478#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#15436#15437#0" expanded="false" />
+            <element signature="e#15480#15481#0" expanded="false" />
+            <element signature="e#17515#17516#0" expanded="false" />
+            <element signature="e#17553#17554#0" expanded="false" />
+            <element signature="e#17801#17802#0" expanded="false" />
+            <element signature="e#17825#17826#0" expanded="false" />
+            <element signature="e#18355#18356#0" expanded="false" />
+            <element signature="e#18404#18405#0" expanded="false" />
+            <element signature="e#18856#18857#0" expanded="false" />
+            <element signature="e#18902#18903#0" expanded="false" />
+            <element signature="e#22247#22248#0" expanded="false" />
+            <element signature="e#22278#22279#0" expanded="false" />
+            <element signature="e#23171#23172#0" expanded="false" />
+            <element signature="e#23212#23213#0" expanded="false" />
+            <element signature="e#23469#23470#0" expanded="false" />
+            <element signature="e#23522#23523#0" expanded="false" />
+            <element signature="e#24813#24814#0" expanded="false" />
+            <element signature="e#24866#24867#0" expanded="false" />
+            <element signature="e#25466#25467#0" expanded="false" />
+            <element signature="e#25523#25524#0" expanded="false" />
+            <element signature="e#25770#25771#0" expanded="false" />
+            <element signature="e#25821#25822#0" expanded="false" />
+            <element signature="e#26253#26254#0" expanded="false" />
+            <element signature="e#26306#26307#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/awt/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="134" column="13" lean-forward="false" selection-start-line="134" selection-start-column="13" selection-end-line="134" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#44805#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#13021#13022#0" expanded="false" />
+            <element signature="e#13049#13050#0" expanded="false" />
+            <element signature="e#16421#16422#0" expanded="false" />
+            <element signature="e#16449#16450#0" expanded="false" />
+            <element signature="e#18099#18100#0" expanded="false" />
+            <element signature="e#18140#18141#0" expanded="false" />
+            <element signature="e#18403#18404#0" expanded="false" />
+            <element signature="e#18433#18434#0" expanded="false" />
+            <element signature="e#19824#19825#0" expanded="false" />
+            <element signature="e#19856#19857#0" expanded="false" />
+            <element signature="e#27147#27148#0" expanded="false" />
+            <element signature="e#27228#27229#0" expanded="false" />
+            <element signature="e#33216#33217#0" expanded="false" />
+            <element signature="e#33250#33251#0" expanded="false" />
+            <element signature="e#37968#37969#0" expanded="false" />
+            <element signature="e#38014#38015#0" expanded="false" />
+            <element signature="e#44108#44109#0" expanded="false" />
+            <element signature="e#44159#44160#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/net/InetAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17727">
+          <caret line="1021" column="67" lean-forward="false" selection-start-line="1021" selection-start-column="63" selection-end-line="1021" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/net/ServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="644" column="47" lean-forward="true" selection-start-line="644" selection-start-column="47" selection-end-line="644" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/net/InetAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17803">
+          <caret line="1021" column="67" lean-forward="false" selection-start-line="1021" selection-start-column="63" selection-end-line="1021" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/awt/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="134" column="13" lean-forward="false" selection-start-line="134" selection-start-column="13" selection-end-line="134" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#44805#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#13021#13022#0" expanded="false" />
+            <element signature="e#13049#13050#0" expanded="false" />
+            <element signature="e#16421#16422#0" expanded="false" />
+            <element signature="e#16449#16450#0" expanded="false" />
+            <element signature="e#18099#18100#0" expanded="false" />
+            <element signature="e#18140#18141#0" expanded="false" />
+            <element signature="e#18403#18404#0" expanded="false" />
+            <element signature="e#18433#18434#0" expanded="false" />
+            <element signature="e#19824#19825#0" expanded="false" />
+            <element signature="e#19856#19857#0" expanded="false" />
+            <element signature="e#27147#27148#0" expanded="false" />
+            <element signature="e#27228#27229#0" expanded="false" />
+            <element signature="e#33216#33217#0" expanded="false" />
+            <element signature="e#33250#33251#0" expanded="false" />
+            <element signature="e#37968#37969#0" expanded="false" />
+            <element signature="e#38014#38015#0" expanded="false" />
+            <element signature="e#44108#44109#0" expanded="false" />
+            <element signature="e#44159#44160#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16454">
+          <caret line="932" column="16" lean-forward="false" selection-start-line="932" selection-start-column="16" selection-end-line="932" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#153768#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#14528#14529#0" expanded="false" />
+            <element signature="e#14552#14553#0" expanded="false" />
+            <element signature="e#30704#30705#0" expanded="false" />
+            <element signature="e#30736#30737#0" expanded="false" />
+            <element signature="e#31427#31428#0" expanded="false" />
+            <element signature="e#31471#31472#0" expanded="false" />
+            <element signature="e#31867#31868#0" expanded="false" />
+            <element signature="e#31906#31907#0" expanded="false" />
+            <element signature="e#32297#32298#0" expanded="false" />
+            <element signature="e#32333#32334#0" expanded="false" />
+            <element signature="e#35447#35448#0" expanded="false" />
+            <element signature="e#35482#35483#0" expanded="false" />
+            <element signature="e#40355#40356#0" expanded="false" />
+            <element signature="e#40382#40383#0" expanded="false" />
+            <element signature="e#46097#46098#0" expanded="false" />
+            <element signature="e#46135#46136#0" expanded="false" />
+            <element signature="e#48100#48101#0" expanded="false" />
+            <element signature="e#48137#48138#0" expanded="false" />
+            <element signature="e#48890#48891#0" expanded="false" />
+            <element signature="e#48940#48941#0" expanded="false" />
+            <element signature="e#49670#49671#0" expanded="false" />
+            <element signature="e#49706#49707#0" expanded="false" />
+            <element signature="e#52242#52243#0" expanded="false" />
+            <element signature="e#52288#52289#0" expanded="false" />
+            <element signature="e#52331#52332#0" expanded="false" />
+            <element signature="e#52368#52369#0" expanded="false" />
+            <element signature="e#52528#52529#0" expanded="false" />
+            <element signature="e#52581#52582#0" expanded="false" />
+            <element signature="e#53674#53675#0" expanded="false" />
+            <element signature="e#53717#53718#0" expanded="false" />
+            <element signature="e#54077#54078#0" expanded="false" />
+            <element signature="e#54112#54113#0" expanded="false" />
+            <element signature="e#56720#56721#0" expanded="false" />
+            <element signature="e#56781#56782#0" expanded="false" />
+            <element signature="e#60792#60793#0" expanded="false" />
+            <element signature="e#60833#60834#0" expanded="false" />
+            <element signature="e#66718#66719#0" expanded="false" />
+            <element signature="e#66775#66776#0" expanded="false" />
+            <element signature="e#82552#82553#0" expanded="false" />
+            <element signature="e#82627#82628#0" expanded="false" />
+            <element signature="e#82906#82907#0" expanded="false" />
+            <element signature="e#82940#82941#0" expanded="false" />
+            <element signature="e#88982#88983#0" expanded="false" />
+            <element signature="e#89009#89010#0" expanded="false" />
+            <element signature="e#89305#89306#0" expanded="false" />
+            <element signature="e#89332#89333#0" expanded="false" />
+            <element signature="e#92137#92138#0" expanded="false" />
+            <element signature="e#92180#92181#0" expanded="false" />
+            <element signature="e#95855#95856#0" expanded="false" />
+            <element signature="e#95911#95912#0" expanded="false" />
+            <element signature="e#96383#96384#0" expanded="false" />
+            <element signature="e#96422#96423#0" expanded="false" />
+            <element signature="e#100602#100603#0" expanded="false" />
+            <element signature="e#100629#100630#0" expanded="false" />
+            <element signature="e#101365#101366#0" expanded="false" />
+            <element signature="e#101395#101396#0" expanded="false" />
+            <element signature="e#101424#101425#0" expanded="false" />
+            <element signature="e#101456#101457#0" expanded="false" />
+            <element signature="e#101984#101985#0" expanded="false" />
+            <element signature="e#102053#102054#0" expanded="false" />
+            <element signature="e#103901#103902#0" expanded="false" />
+            <element signature="e#103959#103960#0" expanded="false" />
+            <element signature="e#114360#114361#0" expanded="false" />
+            <element signature="e#114412#114413#0" expanded="false" />
+            <element signature="e#122316#122317#0" expanded="false" />
+            <element signature="e#122370#122371#0" expanded="false" />
+            <element signature="e#123900#123901#0" expanded="false" />
+            <element signature="e#123948#123949#0" expanded="false" />
+            <element signature="e#123993#123994#0" expanded="false" />
+            <element signature="e#124038#124039#0" expanded="false" />
+            <element signature="e#129889#129890#0" expanded="false" />
+            <element signature="e#129943#129944#0" expanded="false" />
+            <element signature="e#138739#138740#0" expanded="false" />
+            <element signature="e#138783#138784#0" expanded="false" />
+            <element signature="e#147444#147445#0" expanded="false" />
+            <element signature="e#147471#147472#0" expanded="false" />
+            <element signature="e#148152#148153#0" expanded="false" />
+            <element signature="e#148190#148191#0" expanded="false" />
+            <element signature="e#150517#150518#0" expanded="false" />
+            <element signature="e#150570#150571#0" expanded="false" />
+            <element signature="e#150637#150638#0" expanded="false" />
+            <element signature="e#150695#150696#0" expanded="false" />
+            <element signature="e#150746#150747#0" expanded="false" />
+            <element signature="e#150802#150803#0" expanded="false" />
+            <element signature="e#150865#150866#0" expanded="false" />
+            <element signature="e#150919#150920#0" expanded="false" />
+            <element signature="e#151361#151362#0" expanded="false" />
+            <element signature="e#151414#151415#0" expanded="false" />
+            <element signature="e#152834#152835#0" expanded="false" />
+            <element signature="e#152897#152898#0" expanded="false" />
+            <element signature="e#152956#152957#0" expanded="false" />
+            <element signature="e#153013#153014#0" expanded="false" />
+            <element signature="e#153070#153071#0" expanded="false" />
+            <element signature="e#153127#153128#0" expanded="false" />
+            <element signature="e#153208#153209#0" expanded="false" />
+            <element signature="e#153277#153278#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/javax/swing/JTextField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="196" column="35" lean-forward="true" selection-start-line="196" selection-start-column="11" selection-end-line="196" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/javax/swing/JApplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2758">
+          <caret line="92" column="13" lean-forward="false" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-363">
+          <caret line="386" column="16" lean-forward="false" selection-start-line="386" selection-start-column="16" selection-end-line="386" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#33478#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#15436#15437#0" expanded="false" />
+            <element signature="e#15480#15481#0" expanded="false" />
+            <element signature="e#17515#17516#0" expanded="false" />
+            <element signature="e#17553#17554#0" expanded="false" />
+            <element signature="e#17801#17802#0" expanded="false" />
+            <element signature="e#17825#17826#0" expanded="false" />
+            <element signature="e#18355#18356#0" expanded="false" />
+            <element signature="e#18404#18405#0" expanded="false" />
+            <element signature="e#18856#18857#0" expanded="false" />
+            <element signature="e#18902#18903#0" expanded="false" />
+            <element signature="e#22247#22248#0" expanded="false" />
+            <element signature="e#22278#22279#0" expanded="false" />
+            <element signature="e#23171#23172#0" expanded="false" />
+            <element signature="e#23212#23213#0" expanded="false" />
+            <element signature="e#23469#23470#0" expanded="false" />
+            <element signature="e#23522#23523#0" expanded="false" />
+            <element signature="e#24813#24814#0" expanded="false" />
+            <element signature="e#24866#24867#0" expanded="false" />
+            <element signature="e#25466#25467#0" expanded="false" />
+            <element signature="e#25523#25524#0" expanded="false" />
+            <element signature="e#25770#25771#0" expanded="false" />
+            <element signature="e#25821#25822#0" expanded="false" />
+            <element signature="e#26253#26254#0" expanded="false" />
+            <element signature="e#26306#26307#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="185" column="22" lean-forward="false" selection-start-line="185" selection-start-column="22" selection-end-line="185" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="91" column="39" lean-forward="false" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/awt/Panel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/applet/Applet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/ClientUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/ServerUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/GreetingServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-137">
+          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fatfish/Console.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#400#554#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/UITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="61" column="10" lean-forward="true" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mynet/GreetingClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
