@@ -23,7 +23,7 @@ public class ClientUI extends Thread{
                         new DataInputStream(client.getInputStream());
                 String tmpIn = in.readUTF();
                 if (!pause)
-                    clientHistory.append(tmpIn+"\n");
+                    clientHistory.append(tmpIn+" from "+client.getRemoteSocketAddress()+"\n");
             }
         }catch (IOException e){
             e.printStackTrace();

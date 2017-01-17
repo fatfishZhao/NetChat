@@ -5,6 +5,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.*;
 import java.net.*;
+import java.util.ArrayList;
 
 /**
  * Created by Administrator on 2017/1/13.
@@ -16,6 +17,7 @@ public class ServerUI extends Thread{
     JTextArea serverHistory;
     JTextField serverInput;
     Socket server;
+    ArrayList<Socket> serverList = new ArrayList<>();
     boolean pause = false;
     public ServerUI(){
     }
@@ -24,14 +26,10 @@ public class ServerUI extends Thread{
     }
     public void run(){
         try{
-            server = serverSocket.accept();
-            serverHistory.append("与"+server.getRemoteSocketAddress()+"连接已建立\n");
-            while(true){
-                DataInputStream in =
-                        new DataInputStream(server.getInputStream());
-                String tmpIn = in.readUTF();
-                if (!pause)
-                    serverHistory.append(tmpIn+"\n");
+            while(true) {
+                server = serverSocket.accept();
+                serverList.add(server);
+                (new serverThread(this)).start();
             }
         }catch (IOException e){
             e.printStackTrace();
@@ -71,13 +69,14 @@ public class ServerUI extends Thread{
         serverSend.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                if (e.getSource()==serverSend) {
+                if (e.getSource()==serverSend&&!serverUI.pause) {
                     try {
-                        OutputStream outToServer = serverUI.server.getOutputStream();
-                        DataOutputStream out =
-                                new DataOutputStream(outToServer);
-
-                        out.writeUTF(serverUI.serverInput.getText());
+                        for (Socket tmpServer : serverUI.serverList) {
+                            OutputStream outToServer = tmpServer.getOutputStream();
+                            DataOutputStream out =
+                                    new DataOutputStream(outToServer);
+                            out.writeUTF(serverUI.serverInput.getText());
+                        }
                     } catch (IOException x) {
                         x.printStackTrace();
                     }
@@ -91,5 +90,30 @@ public class ServerUI extends Thread{
         serverUI.serverFrame.add(serverUI.serverPanel);
         serverUI.serverFrame.setVisible(true);
         serverUI.start();
+    }
+}
+class serverThread extends Thread{
+    ServerUI serverUI;
+    Socket server;
+    public serverThread(ServerUI serverUI){
+        this.serverUI = serverUI;
+        server = serverUI.server;
+    }
+    public void run(){
+        try{
+            serverUI.serverHistory.append("与"+server.getRemoteSocketAddress()+"连接已建立\n");
+            while(true){
+                DataInputStream in =
+                        new DataInputStream(server.getInputStream());
+                String tmpIn = in.readUTF();
+                if (!serverUI.pause)
+                    serverUI.serverHistory.append(tmpIn+" from "+server.getRemoteSocketAddress()+"\n");
+            }
+        }catch (IOException e){
+            e.printStackTrace();
+            serverUI.serverHistory.append("lost"+server.getRemoteSocketAddress()+"\n");
+            serverUI.serverList.remove(server);
+
+        }
     }
 }
